@@ -1,0 +1,6 @@
+[2026-05-08 15:48:58] Baseline hashes created.
+[2026-05-08 15:49:25] Integrity scan passed successfully.
+[2026-05-08 15:51:00] WARNING: Modified file detected -> data.txt
+[2026-05-08 16:21:38] WARNING: Modified file detected -> data.txt
+[2026-05-08 16:59:21] Baseline hashes created.
+[2026-05-08 16:59:24] Integrity scan passed successfully.

@@ -1,0 +1,10 @@
+{
+    "monitored_files/config.txt": {
+        "hash": "920d941ef9d49676a93bd930ae274509ecfbd4711831601298111fd6ebc5125a",
+        "created_at": "2026-05-08 16:59:21"
+    },
+    "monitored_files/data.txt": {
+        "hash": "6f65c17de532a3c1ba69805a11be569d77867a0f95e154805e17fb636d6a6088",
+        "created_at": "2026-05-08 16:59:21"
+    }
+}
