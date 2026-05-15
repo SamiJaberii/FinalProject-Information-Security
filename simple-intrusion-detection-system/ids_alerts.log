@@ -1,0 +1,47 @@
+[2026-05-15 11:41:22] FAILED LOGIN DETECTED: May 15 10:22:01 ubuntu sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 53422 ssh2
+[2026-05-15 11:41:22] FAILED LOGIN DETECTED: May 15 10:23:18 ubuntu sshd[1235]: Failed password for root from 192.168.1.11 port 53423 ssh2
+[2026-05-15 11:41:22] FAILED LOGIN DETECTED: May 15 10:24:02 ubuntu login[1236]: authentication failure; user=student
+[2026-05-15 11:41:57] NEW PROCESS DETECTED: PID=6108, COMMAND=ps
+[2026-05-15 11:41:57] PROCESS STOPPED: PID=6107, COMMAND=ps
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=1, COMMAND=/sbin/launchd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=375, COMMAND=/System/Library/CoreServices/launchservicesd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=546, COMMAND=/usr/libexec/audioclocksyncd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=744, COMMAND=/System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=776, COMMAND=/System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=798, COMMAND=com.anchorfree.hss-mac.startatloginhelper
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=833, COMMAND=/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/MacOS/AdobeResourceSynchronizer
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=865, COMMAND=/System/Library/Input Methods/EmojiFunctionRowIM.app/Contents/PlugIns/EmojiFunctionRowIM_Extension.appex/Contents/MacOS/EmojiFunctionRowIM_Extension
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=909, COMMAND=/usr/libexec/avconferenced
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=1114, COMMAND=/System/Library/ExtensionKit/Extensions/HostInferenceProviderService.appex/Contents/MacOS/HostInferenceProviderService
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=1413, COMMAND=/System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=1433, COMMAND=<defunct>
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=1441, COMMAND=<defunct>
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=1514, COMMAND=/System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=1592, COMMAND=/System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=2344, COMMAND=/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdsync
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=4283, COMMAND=/System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=4296, COMMAND=/System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=4993, COMMAND=/usr/libexec/powerexperienced
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5018, COMMAND=/System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5073, COMMAND=/System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5095, COMMAND=/System/Library/PrivateFrameworks/IntelligenceFlowRuntime.framework/Versions/A/intelligenceflowd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5108, COMMAND=/System/Library/PrivateFrameworks/MapsSync.framework/mapssyncd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5142, COMMAND=/System/Library/PrivateFrameworks/SessionCore.framework/Support/liveactivitiesd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5144, COMMAND=/System/Library/PrivateFrameworks/SkyLight.framework//Versions/A/Resources/AquaAppearanceHelper.app/Contents/MacOS/AquaAppearanceHelper
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5152, COMMAND=/usr/libexec/swtransparencyd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5371, COMMAND=/System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5378, COMMAND=/System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5401, COMMAND=/System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5494, COMMAND=/System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5509, COMMAND=/System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5586, COMMAND=/usr/libexec/transparencyd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5591, COMMAND=/System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5768, COMMAND=/System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5866, COMMAND=/System/Library/PrivateFrameworks/IntelligenceFlowContextRuntime.framework/Versions/A/intelligencecontextd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5877, COMMAND=/System/Library/Frameworks/FinanceKit.framework/financed
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5946, COMMAND=/usr/libexec/biomesyncd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5985, COMMAND=/System/Library/Frameworks/Contacts.framework/Support/postersyncd
+[2026-05-15 11:41:57] SUSPICIOUS PROCESS DETECTED: PID=5993, COMMAND=/System/Library/CoreServices/screencaptureui.app/Contents/MacOS/screencaptureui
+[2026-05-15 11:53:25] FAILED LOGIN DETECTED: May 15 10:22:01 ubuntu sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 53422 ssh2
+[2026-05-15 11:53:25] FAILED LOGIN DETECTED: May 15 10:23:18 ubuntu sshd[1235]: Failed password for root from 192.168.1.11 port 53423 ssh2
+[2026-05-15 11:53:25] FAILED LOGIN DETECTED: May 15 10:24:02 ubuntu login[1236]: authentication failure; user=student

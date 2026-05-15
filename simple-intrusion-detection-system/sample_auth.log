@@ -1,0 +1,4 @@
+May 15 10:22:01 ubuntu sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 53422 ssh2
+May 15 10:23:18 ubuntu sshd[1235]: Failed password for root from 192.168.1.11 port 53423 ssh2
+May 15 10:24:02 ubuntu login[1236]: authentication failure; user=student
+May 15 10:25:44 ubuntu sshd[1237]: Accepted password for user from 192.168.1.12 port 53424 ssh2
